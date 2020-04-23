@@ -1,0 +1,10 @@
+//
+// Created by sobrito on 12/02/2019.
+//
+
+#ifndef I9CORP_REST_I9CORP_BUILD_LIBRARY_H
+#define I9CORP_REST_I9CORP_BUILD_LIBRARY_H
+#ifndef MAKE_DLL
+#define MAKE_DLL
+#endif
+#endif //I9CORP_REST_I9CORP_BUILD_LIBRARY_H
