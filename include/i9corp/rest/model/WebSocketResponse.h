@@ -38,6 +38,7 @@ using namespace nlohmann;
 #define I9CORP_EVENT_CONNECTION "connect"
 #define I9CORP_EVENT_DISCONNECT "disconnect"
 #define I9CORP_EVENT_CHANGE_PASSWORD "change_password"
+#define I9CORP_EVENT_RECOVER_PASSWORD "recover_password"
 #define I9CORP_EVENT_AGENT_QUEUE_LOGIN "queue_add"
 #define I9CORP_EVENT_AGENT_QUEUE_LOGOUT "queue_remove"
 #define I9CORP_EVENT_PAUSE "pause_event"
